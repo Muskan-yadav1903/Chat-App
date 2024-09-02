@@ -24,4 +24,4 @@ This project is a real-time chat application designed to facilitate seamless com
 ![Screenshot 2024-09-02 105217](https://github.com/user-attachments/assets/2279e17d-beb5-402e-9d52-20755577fd2a)
 
 
-  # This project showcases my ability to build functional, real-time applications with a focus on user experience and responsive design. It highlights my proficiency in JavaScript and Firebase, as well as my commitment to creating reliable and user-friendly software.
+This project showcases my ability to build functional, real-time applications with a focus on user experience and responsive design. It highlights my proficiency in JavaScript and Firebase, as well as my commitment to creating reliable and user-friendly software.
